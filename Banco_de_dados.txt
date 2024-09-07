@@ -1,0 +1,8 @@
+PN: 852
+Descricao: sdfg
+Preco: R$ 2345
+
+PN: 52
+Descricao: sdfg
+Preco: R$ 345678
+
